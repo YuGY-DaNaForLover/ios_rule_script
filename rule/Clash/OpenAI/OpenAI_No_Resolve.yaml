@@ -4,9 +4,9 @@
 # UPDATED: 2024-02-03 01:49:21
 # DOMAIN: 2
 # DOMAIN-KEYWORD: 1
-# DOMAIN-SUFFIX: 23
+# DOMAIN-SUFFIX: 24
 # IP-CIDR: 2
-# TOTAL: 28
+# TOTAL: 29
 payload:
   - DOMAIN,browser-intake-datadoghq.com
   - DOMAIN,static.cloudflareinsights.com
